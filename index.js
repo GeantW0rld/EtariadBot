@@ -18,7 +18,7 @@ const client = new Client({
   })
 
 
-app.listen(80)
+app.listen(2000)
 
 client.commands = new Collection()
 
